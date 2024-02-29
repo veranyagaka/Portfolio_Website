@@ -1,0 +1,24 @@
+html{
+    font-family: 'Open Sans', sans-serif; /* Example font family */
+
+}
+img{
+    width: 300;
+    height: 300;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+p{
+    flex: 1;
+    margin-left: 20px;
+}
+.container2{
+    display: flex;
+    
+}
+.list{
+    flex: 1;
+    margin-left: 20px;
+}
