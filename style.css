@@ -8,3 +8,23 @@ nav{
     text-decoration: none;
 
 }
+#red{
+    color: red;
+    font-size: 40px;
+
+}
+.green{
+    color: green;
+    font-size: 20px;
+}
+.container{
+    width: 300;
+    height: 600;
+    border: 10px solid blue;
+    padding: 20px;
+    margin: 40px;
+}
+.container img{
+    width: 100%;
+    height:auto;
+}
